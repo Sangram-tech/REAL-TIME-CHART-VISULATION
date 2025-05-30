@@ -2,6 +2,15 @@
 
 A simple and elegant real-time data visualization project using JavaScript and Chart.js. This project demonstrates how to create and update charts in real-time with smooth animations and responsive design.
 
+
+
+## 🌐 Live Demo
+
+> 💻 **[👉 Click here to run the app instantly](https://sangram-tech.github.io/Tic-Tac-Toe-Game/
+)**  
+> *(Replace this link with your real GitHub Pages or CodePen URL)*
+
+
 ## Features
 
 - Real-time data updates every second
