@@ -6,8 +6,7 @@ A simple and elegant real-time data visualization project using JavaScript and C
 
 ## 🌐 Live Demo
 
-> 💻 **[👉 Click here to run the app instantly](https://sangram-tech.github.io/Tic-Tac-Toe-Game/
-)**  
+> 💻 **[👉 Click here to run the app instantly](https://sangram-tech.github.io/REAL-TIME-CHART-VISULATION/)**  
 > *(Replace this link with your real GitHub Pages or CodePen URL)*
 
 
